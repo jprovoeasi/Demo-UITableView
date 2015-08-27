@@ -21,7 +21,7 @@
 - (void)configureForFont:(UIFont *)font
 {
     self.fontLabel.font = font;
-    self.fontLabel.text = font.familyName;
+    self.fontLabel.text = font.fontName;
 }
 
 @end
