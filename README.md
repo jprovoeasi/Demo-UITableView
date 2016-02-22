@@ -1,3 +1,3 @@
 # Demo-UITableView
 
-Deze demo toont de basic werking van een UITableView.
+This demo shows the basics of a UITableView.
